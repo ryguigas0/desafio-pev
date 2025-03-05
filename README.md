@@ -2,6 +2,8 @@
 
 [Link do arquivo para rodar no colab](https://colab.research.google.com/drive/1YwJURtuzFSZomAnMlkEvcCjwgXBlEqcf?usp=sharing)
 
+[Link do repositório no GitHub](https://github.com/ryguigas0/desafio-pev)
+
 ## Desenvolvimento
 
 ### Planejamento
