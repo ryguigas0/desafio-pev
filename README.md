@@ -43,6 +43,8 @@ Para garantir que estava fazendo o cálculo corretamente, fiz a fórmula complet
 
 Eu não arredondei o dado da população de 2030 porque não estava descrito nos requisitos, logo critério vai ser de quem for utilizar essas informações
 
+Adicionei timestamps nos arquivos para fazer o versionamento de dados da camada de ingestão (`2025-03-05_populacao_paises.csv`) e da camada de management (`2025-03-05_populacao_paises_processado.parquet`)
+
 ## Agradecimentos
 Muito obrigado pela oportunidade e pela atenção!
 
