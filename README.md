@@ -42,3 +42,8 @@ Para aprender funções que eu não desconhecia, busquei na documentação ofici
 Para garantir que estava fazendo o cálculo corretamente, fiz a fórmula completa do crescimento de população
 
 Eu não arredondei o dado da população de 2030 porque não estava descrito nos requisitos, logo critério vai ser de quem for utilizar essas informações
+
+## Agradecimentos
+Muito obrigado pela oportunidade e pela atenção!
+
+Gostaria de podermos nos conectar no [LinkedIn](https://www.linkedin.com/in/guigadev/) e no [GitHub](https://github.com/ryguigas0)
